@@ -9,11 +9,13 @@ namespace Taxi.Models.MovableProperty.AutoCollection
 {
     public class Stretch : Limousine
     {
-        public Stretch(double price, double weight, string manufacturedBy, int maxAllowedSpeed, int initCost, string name, bool leftWeelSide)
-            : base(price, weight, manufacturedBy, maxAllowedSpeed, initCost, name, leftWeelSide)
+        public Stretch(double price, double weight, string manufacturedBy, int maxAllowedSpeed, int initCost, string name, bool leftWeelSide, string operatingZone, bool nightOperating, int carLength)
+            : base(price, weight, manufacturedBy, maxAllowedSpeed, initCost, name, leftWeelSide, operatingZone, nightOperating)
         {
+            CarLength = carLength;
         }
 
+        public int CarLength { get; set; }
         public override Facilities[] Сomposition => new Facilities[] { Facilities.CardPay, Facilities.CashPay, Facilities.NoLeather, Facilities.Water };
 
         public override string Name => "Crown Victoria S";
