@@ -9,8 +9,8 @@ namespace Taxi.Models.MovableProperty.AutoCollection
 {
     public class RetroCab : Econom
     {
-        public RetroCab(double price, double weight, string manufacturedBy, int maxAllowedSpeed, int initCost, string name, bool leftWeelSide, TypeOfDriver typeOfDriver)
-            : base(price, weight, manufacturedBy, maxAllowedSpeed, initCost, name, leftWeelSide)
+        public RetroCab(double price, double weight, string manufacturedBy, int maxAllowedSpeed, int initCost, string name, bool leftWeelSide, TypeOfDriver typeOfDriver, bool englishSpeakingDriver)
+            : base(price, weight, manufacturedBy, maxAllowedSpeed, initCost, name, leftWeelSide, englishSpeakingDriver)
         {
             TypeOfDriver = typeOfDriver;
         }

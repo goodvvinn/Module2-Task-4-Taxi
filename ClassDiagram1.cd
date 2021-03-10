@@ -11,7 +11,7 @@
   <Class Name="Taxi.Helpers.Extensions.TaxiCarsExtensions" Collapsed="true">
     <Position X="12.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Helpers\Extensions\TaxiCarsExtensions.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -23,126 +23,127 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Models.MovableProperty.AutoCollection.Econom" Collapsed="true">
-    <Position X="7" Y="5.5" Width="1.5" />
+    <Position X="7.25" Y="8.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\MovableProperty\AutoCollection\Econom.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Models.MovableProperty.AutoCollection.Limousine" Collapsed="true">
-    <Position X="9.25" Y="7" Width="1.5" />
+    <Position X="9.5" Y="10" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\MovableProperty\AutoCollection\Limousine.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Models.MovableProperty.AutoCollection.Premium" Collapsed="true">
-    <Position X="9.25" Y="5.5" Width="1.5" />
+    <Position X="9.5" Y="8.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\MovableProperty\AutoCollection\Premium.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Models.MovableProperty.AutoCollection.RetroCab" Collapsed="true">
-    <Position X="7" Y="7" Width="1.5" />
+    <Position X="7.25" Y="10" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAUEAAAAAAAAAAAgAAA=</HashCode>
       <FileName>Models\MovableProperty\AutoCollection\RetroCab.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Models.MovableProperty.AutoCollection.Stretch" Collapsed="true">
-    <Position X="9.25" Y="8.25" Width="1.5" />
+    <Position X="9.5" Y="11.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAIAAAAAAAAAAQAAAEAAAAAAAAAAAAgAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAQAAAEAAAAAAAQAAAAgAAA=</HashCode>
       <FileName>Models\MovableProperty\AutoCollection\Stretch.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Models.MovableProperty.Car" Collapsed="true">
-    <Position X="8.25" Y="1.25" Width="1.5" />
+    <Position X="8.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEQAAAAAAAAAAAAUCACAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\MovableProperty\Car.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Models.MovableProperty.LightDuty" Collapsed="true">
-    <Position X="8.25" Y="2.5" Width="1.5" />
+    <Position X="8.5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\MovableProperty\LightDuty.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Models.MovableProperty.Sedan" Collapsed="true">
-    <Position X="8.25" Y="4" Width="1.5" />
+    <Position X="8.5" Y="7" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
       <FileName>Models\MovableProperty\Sedan.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Models.Result.TaxiCars" Collapsed="true">
-    <Position X="11.75" Y="1.25" Width="1.5" />
+    <Position X="13.75" Y="5.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAACAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Result\TaxiCars.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Module2_Task_3_Taxi.Cars" Collapsed="true">
-    <Position X="16.25" Y="4.25" Width="1.5" />
+  <Class Name="Taxi.Services.CarService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="4.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAABQBACAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Cars.cs</FileName>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAA=</HashCode>
+      <FileName>Services\CarService.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="Taxi.Program" Collapsed="true">
-    <Position X="16.25" Y="5.5" Width="1.5" />
+    <Position X="15.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Taxi.Starter" Collapsed="true">
-    <Position X="15.5" Y="6.5" Width="1.5" />
+    <Position X="12" Y="5.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAEAAAAAAAQAQAAAAAAAAAAAAAAAABAAAI=</HashCode>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAQAAAAAAAAAAAAAAAABAAAI=</HashCode>
       <FileName>Starter.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="Taxi.Services.Abstractions.ICarService" Collapsed="true">
-    <Position X="14" Y="4" Width="1.5" />
+    <Position X="12" Y="6.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
       <FileName>Services\Abstractions\ICarService.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Enum Name="Taxi.Models.Enums.Facilities" Collapsed="true">
-    <Position X="11.75" Y="2.5" Width="1.5" />
+    <Position X="12" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIAACAQAAAAAAAAAAAAAAAACAAiAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Enums\Facilities.cs</FileName>
     </TypeIdentifier>
   </Enum>
   <Enum Name="Taxi.Models.Enums.Transmission" Collapsed="true">
-    <Position X="13.5" Y="2.5" Width="1.5" />
+    <Position X="13.75" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAQAAAAAEAAAAAAAAABAAAAAABAAAAAAAAAAA=</HashCode>
       <FileName>Models\Enums\Transmissions.cs</FileName>
     </TypeIdentifier>
   </Enum>
   <Enum Name="Taxi.Models.Enums.TypeOfDriver" Collapsed="true">
-    <Position X="15.25" Y="2.5" Width="1.5" />
+    <Position X="15.5" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Enums\TypeOfDriver.cs</FileName>
     </TypeIdentifier>
   </Enum>
   <Enum Name="Taxi.Models.Enums.TypeOfLuggage" Collapsed="true">
-    <Position X="11.75" Y="3.25" Width="1.5" />
+    <Position X="12" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAABAAAAAACAAAAABAAAAAAAAAAAAAAAAEAAA=</HashCode>
       <FileName>Models\Enums\TypeOfLuggage.cs</FileName>
     </TypeIdentifier>
   </Enum>
   <Enum Name="Taxi.Models.Enums.TypePassangers" Collapsed="true">
-    <Position X="13.5" Y="3.25" Width="1.5" />
+    <Position X="13.75" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAA=</HashCode>
       <FileName>Models\Enums\TypeOfPassangers.cs</FileName>
